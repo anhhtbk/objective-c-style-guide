@@ -2,6 +2,7 @@
 
 ## Dot Notation Syntax
 Dot notation is RECOMMENDED over bracket notation for getting and setting properties.
+
 **For Example:**
 ```Objective-C
 view.backgroundColor = [UIColor orangeColor];
